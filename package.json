@@ -1,0 +1,23 @@
+{
+  "name": "brush",
+  "version": "1.0.0",
+  "description": "a dependency free terminal string styling",
+  "main": "brush.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imagineeeinc/brush.git"
+  },
+  "keywords": [
+    "brush",
+    "chalk"
+  ],
+  "author": "imagineeeinc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imagineeeinc/brush/issues"
+  },
+  "homepage": "https://github.com/imagineeeinc/brush#readme"
+}
